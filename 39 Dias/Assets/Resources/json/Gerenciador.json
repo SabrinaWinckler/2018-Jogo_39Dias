@@ -1,0 +1,111 @@
+{
+  "cenarios": [
+    {
+      "nomeCenario": "beginning",
+      "cenas": [
+        {
+          "nomeCena": "cena1",
+          "bg_cena": "thebeginning1.jpg",
+          "enredos": [
+            {
+              "texto": "O fim do seu expediente já passou e seu dia foi basicamente o mesmo. Bom, “expediente” é relativo:",
+              "fx": null,
+              "img_avatar": null,
+              "habilidade": null
+            },
+            {
+              "texto": "- Ontem foi as 18:30, hoje foi ás 17:45.",
+              "fx": "ice_drink.ogg",
+              "img_avatar": null,
+              "habilidade": null
+            },
+            {
+              "texto": "Você está refazendo o “ritual” que você mesmo considera clichê, bebendo uma dose de whisky no seu escritório/apartamento. O lugar também não foge dos padrões impostos pela literatura norte-americana de como deve ser o escritório de um I.P.: sala única com apenas um banheiro, a clássica mesa de madeira no meio e dois gabinetes de arquivos na parede ao lado -os quais você empurra para o lado, revelando uma cama de parede, quando quer dormir. ",
+              "fx": null,
+              "img_avatar": null,
+              "habilidade": null
+            },
+            {
+              "texto": "Você se lembra que este foi o único motivo de você escolher este lugar como sua moradia e local de trabalho.Você está escorado na sua mesa, com o copo de whisky na mão, encarando a placa com seu nome ao lado da sua mão.",
+              "fx": null,
+              "img_avatar": null,
+              "habilidade": null
+            },
+            {
+              "texto": "O que você faz?",
+              "fx": null,
+              "img_avatar": null,
+              "habilidade": null
+            }
+          ],
+          "opcoes": [
+            {
+              "resposta": "Deixa o copo de whisky na mesa e vai atender a porta.",
+              "segmento": {
+                "idCenario": 0,
+                "idCena": 1,
+                "topico": null
+              },
+              "permissao": "todos",
+              "descontar": 0.0,
+              "item": null
+            },
+            {
+              "resposta": "Pega seu revolver magnum .357 na gaveta da mesa e coloca atrás na sua calça, deixa o copo na mesa e vai até a porta. Nunca se pode ser cuidadoso demais...",
+              "segmento": {
+                "idCenario": 0,
+                "idCena": 1,
+                "topico": null
+              },
+              "permissao": "todos",
+              "descontar": 0.0,
+              "item": null
+            }
+
+          ]
+
+        },
+        {
+          "nomeCena": "cena2",
+          "bg_cena": "thebeginning1.jpg",
+          "enredos": [
+
+            {
+              "texto": "Se sentindo à prova de balas neste momento, herói protagonista do seu próprio show de TV. Você abre a porta com o peito estufado e com a cara o mais serena possível. Todo o ato é inútil. Sua cara serena se desfaz em uma fração de segundo. Você sabia que era uma mulher antes de abrir a porta e parte da sua pose era para impressionar a mulher atrás da sua porta. O inverso acontece. Você abre a porta com as mãos firmes, mas ante da porta chegar na extensão do seu braço esquerdo você mal consegue segurar o copo na mão.",
+              "fx": "porta_rangendo.ogg",
+              "img_avatar": null,
+              "habilidade": null
+            }
+          ],
+          "opcoes": [
+            {
+              "resposta": "Deixa o copo de whisky na mesa e vai atender a porta.",
+              "segmento": {
+                "idCenario": 0,
+                "idCena": 1,
+                "topico": null
+              },
+              "permissao": "todos",
+              "descontar": 0.0,
+              "item": null
+            },
+            {
+              "resposta": "Pega seu revolver magnum .357 na gaveta da mesa e coloca atrás na sua calça, deixa o copo na mesa e vai até a porta. Nunca se pode ser cuidadoso demais...",
+              "segmento": {
+                "idCenario": 0,
+                "idCena": 1,
+                "topico": null
+              },
+              "permissao": "todos",
+              "descontar": 0.0,
+              "item": null
+            }
+
+          ]
+
+        
+        }
+      ]
+    }
+  ]
+}
